@@ -1,7 +1,7 @@
 # Data_Analysis_Project_Intermediate_Analysis_Python
 
 
-# rental-price-prediction
+# House-price-prediction
 
 ## Goal
 
@@ -60,6 +60,6 @@ The R squared value is 0.90 (means 90% of the variability in y - price can be ex
 
 ![image](https://github.com/miayuxin/machine-learning-project/blob/master/Rental%20price%20prediction%20/Image/Ballina%20Shire%20Council.png)
 
-#### XGBoosting Model for Tweed Shire Council
+#### Hypothesis  for Tweed Shire Council
 
 ![image](https://github.com/miayuxin/machine-learning-project/blob/master/Rental%20price%20prediction%20/Image/gradient%20boosting.png)
